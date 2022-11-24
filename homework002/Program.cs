@@ -5,7 +5,7 @@
 22 3 9 -> 22
 */
 
-Console.WriteLine("Введите первое число: ");
+/*Console.WriteLine("Введите первое число: ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите второе число: ");
@@ -34,3 +34,27 @@ else
 {
     Console.WriteLine("Максимальное число: " + thirdNumber);
 }
+*/
+// или так можно решить как показано ниже
+
+Console.WriteLine("Введите три числа: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+int number2 = Convert.ToInt32(Console.ReadLine());
+int number3 = Convert.ToInt32(Console.ReadLine());
+int maxNumber = 0;
+
+ if (number1 > number2)
+{
+     maxNumber = number1;
+}  
+ else{
+    maxNumber = number2;
+ }
+if (maxNumber > number3){
+     Console.WriteLine($"Максимальное число: {maxNumber}");
+}
+else
+{
+    Console.WriteLine($"Максимальное число: {number3}");
+}
+
