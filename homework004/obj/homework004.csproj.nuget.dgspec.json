@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\владимир\\документы\\Homework\\homework004\\homework004.csproj": {}
+    "D:\\Users\\antik\\Documents\\Homework\\homework\\homework004\\homework004.csproj": {}
   },
   "projects": {
-    "D:\\владимир\\документы\\Homework\\homework004\\homework004.csproj": {
+    "D:\\Users\\antik\\Documents\\Homework\\homework\\homework004\\homework004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\владимир\\документы\\Homework\\homework004\\homework004.csproj",
+        "projectUniqueName": "D:\\Users\\antik\\Documents\\Homework\\homework\\homework004\\homework004.csproj",
         "projectName": "homework004",
-        "projectPath": "D:\\владимир\\документы\\Homework\\homework004\\homework004.csproj",
-        "packagesPath": "C:\\Users\\voir7\\.nuget\\packages\\",
-        "outputPath": "D:\\владимир\\документы\\Homework\\homework004\\obj\\",
+        "projectPath": "D:\\Users\\antik\\Documents\\Homework\\homework\\homework004\\homework004.csproj",
+        "packagesPath": "C:\\Users\\antik\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\antik\\Documents\\Homework\\homework\\homework004\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\voir7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\antik\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

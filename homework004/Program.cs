@@ -4,9 +4,22 @@
 8 -> 2, 4, 6, 8
 */
 
-Console.WriteLine("Введите число: ");
+/*Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 number = Math.Abs(number); 
 for (int i = 2; i <= number; i+=2)  
-Console.Write($"{i},");
+Console.Write($"{i},");*/
+     //а можно так решить
+Console.WriteLine("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+Console.Write($"чётные числа от 1 до {number}: ");
+while (i < number)
+{
+    i += 1;
+    if (i %2 == 0)
+    {
+    Console.Write($"{i} ");
+    }
+}
