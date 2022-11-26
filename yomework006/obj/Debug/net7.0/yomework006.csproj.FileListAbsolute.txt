@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Homework\homework\yomework006\bin\Debug\net7.0\yomework006.exe
+D:\Users\antik\Documents\Homework\homework\yomework006\bin\Debug\net7.0\yomework006.deps.json
+D:\Users\antik\Documents\Homework\homework\yomework006\bin\Debug\net7.0\yomework006.runtimeconfig.json
+D:\Users\antik\Documents\Homework\homework\yomework006\bin\Debug\net7.0\yomework006.dll
+D:\Users\antik\Documents\Homework\homework\yomework006\bin\Debug\net7.0\yomework006.pdb
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.AssemblyInfo.cs
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.dll
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\refint\yomework006.dll
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.pdb
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\yomework006.genruntimeconfig.cache
+D:\Users\antik\Documents\Homework\homework\yomework006\obj\Debug\net7.0\ref\yomework006.dll
