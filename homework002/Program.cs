@@ -43,15 +43,17 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 int number3 = Convert.ToInt32(Console.ReadLine());
 int maxNumber = 0;
 
- if (number1 > number2)
+if (number1 > number2)
 {
-     maxNumber = number1;
-}  
- else{
+    maxNumber = number1;
+}
+else
+{
     maxNumber = number2;
- }
-if (maxNumber > number3){
-     Console.WriteLine($"Максимальное число: {maxNumber}");
+}
+if (maxNumber > number3)
+{
+    Console.WriteLine($"Максимальное число: {maxNumber}");
 }
 else
 {
