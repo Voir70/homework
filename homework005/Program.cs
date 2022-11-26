@@ -10,7 +10,7 @@ int number = Int32.Parse(Console.ReadLine());
 if (number > 1000 && number < 100)
 {
     Console.WriteLine("wrong number");
-return;
+
 }    
 int number2 = number / 10 % 10;  
 Console.WriteLine(number2);
