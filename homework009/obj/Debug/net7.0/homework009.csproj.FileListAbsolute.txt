@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Homework\homework\homework009\bin\Debug\net7.0\homework009.exe
+D:\Users\antik\Documents\Homework\homework\homework009\bin\Debug\net7.0\homework009.deps.json
+D:\Users\antik\Documents\Homework\homework\homework009\bin\Debug\net7.0\homework009.runtimeconfig.json
+D:\Users\antik\Documents\Homework\homework\homework009\bin\Debug\net7.0\homework009.dll
+D:\Users\antik\Documents\Homework\homework\homework009\bin\Debug\net7.0\homework009.pdb
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.AssemblyInfo.cs
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.dll
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\refint\homework009.dll
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.pdb
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\homework009.genruntimeconfig.cache
+D:\Users\antik\Documents\Homework\homework\homework009\obj\Debug\net7.0\ref\homework009.dll
