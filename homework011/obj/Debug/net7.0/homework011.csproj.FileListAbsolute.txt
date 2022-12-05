@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Homework\homework\homework011\bin\Debug\net7.0\homework011.exe
+D:\Users\antik\Documents\Homework\homework\homework011\bin\Debug\net7.0\homework011.deps.json
+D:\Users\antik\Documents\Homework\homework\homework011\bin\Debug\net7.0\homework011.runtimeconfig.json
+D:\Users\antik\Documents\Homework\homework\homework011\bin\Debug\net7.0\homework011.dll
+D:\Users\antik\Documents\Homework\homework\homework011\bin\Debug\net7.0\homework011.pdb
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.AssemblyInfo.cs
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.dll
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\refint\homework011.dll
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.pdb
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\homework011.genruntimeconfig.cache
+D:\Users\antik\Documents\Homework\homework\homework011\obj\Debug\net7.0\ref\homework011.dll
